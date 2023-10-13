@@ -1,4 +1,4 @@
-# data_analyst
+# data_analyst_simble
 
 Репозиторий содержит аналитические проекты в рамках работы в Simble.
 
